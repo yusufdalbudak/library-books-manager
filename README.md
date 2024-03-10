@@ -1,3 +1,7 @@
+# library-manager_V2
+In the new version, you will be able to keep the books you add in a .txt file, and continue with the previous data when you close the program.
+
+
 # library-books-manager
 The Book Manager is a simple desktop application developed with Tkinter, the standard GUI library for Python.
 
